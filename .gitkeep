@@ -1,7 +1,4 @@
-# FUZION COACHING INSTITUTE - Repository Structure
-
-```text
-FUZION-COACHING-INSTITUTE/
+FUZION-COACHING-INSTITUTE
 ├── .github/
 │   ├── workflows/
 │   ├── ISSUE_TEMPLATE/
