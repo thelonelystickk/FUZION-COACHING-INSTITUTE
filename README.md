@@ -2,7 +2,25 @@
 
 Production-grade Coaching Management System.
 
-## Live website -> https://thelonelystickk.github.io/FUZION-COACHING-INSTITUTE/
+## Live website 
+
+https://thelonelystickk.github.io/FUZION-COACHING-INSTITUTE/
+
+## Project roles
+
+| Folder                   | Owner             |
+| ------------------------ | ----------------- |
+| `apps/web/pages/public`  | Frontend Team     |
+| `apps/web/pages/student` | Frontend Team     |
+| `apps/web/pages/teacher` | Frontend Team     |
+| `apps/web/pages/parent`  | Frontend Team     |
+| `apps/web/pages/admin`   | Frontend Team     |
+| `functions`              | Backend Team      |
+| `firestore`              | Database Team     |
+| `packages/ui`            | UI/UX Team        |
+| `packages/types`         | Architecture Team |
+| `scripts`                | DevOps Team       |
+| `.github`                | CI/CD Team        |
 
 ## Repository Structure
 
