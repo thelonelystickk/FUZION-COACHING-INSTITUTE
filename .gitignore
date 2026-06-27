@@ -1,17 +1,8 @@
 node_modules
-
 dist
-
 .firebase
-
 .env
-
 .env.local
-
 coverage
-
 .vscode
-
-.idea
-
 .DS_Store
