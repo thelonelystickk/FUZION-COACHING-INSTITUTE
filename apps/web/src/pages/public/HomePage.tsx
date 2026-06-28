@@ -1,6 +1,7 @@
 import Button from "../../components/ui/Button";
 import Card from "../../components/ui/Card";
-import Container from "../../components/layout/Container";
+import Container from "../../components/common/Container";
+
 
 export default function HomePage() {
   return (
